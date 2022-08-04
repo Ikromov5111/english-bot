@@ -7,6 +7,7 @@ name = "pypi"
 aiogram = "2.20"
 requests = "*"
 googletrans = "==3.1.0a0"
+environs = "~=8.0.0"
 
 [dev-packages]
 
